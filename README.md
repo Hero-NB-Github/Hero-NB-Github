@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hero-NB-Github
 - 👀 I’m interested in Computer science (software)
-- 🌱 I’m currently learning Computer science (software)
+- 🌱 I’m currently learning Python
 - 📫 How to reach me: email: natthaburin.b@gmail.com
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: Im asian!
